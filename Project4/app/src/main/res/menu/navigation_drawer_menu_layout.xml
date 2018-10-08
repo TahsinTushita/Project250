@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="Add a Book"
+        android:id="@+id/add_books"
+        android:icon="@drawable/ic_book_black_24dp"
+        />
+
+    <item
+        android:title="Profile"
+        android:id="@+id/profile_id"
+        android:icon="@drawable/ic_person_outline_black_24dp"
+        />
+
+    <item
+        android:title="Friends"
+        android:id="@+id/friends_option"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        />
+
+    <item
+        android:title="Reading List"
+        android:id="@+id/reading_list_id"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        />
+
+    <item
+        android:title="Book List"
+        android:id="@+id/book_list_id"
+        android:icon="@drawable/ic_storage_black_24dp"
+        />
+
+
+</menu>

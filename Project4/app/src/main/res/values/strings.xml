@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="sign_up">Please sign up or login</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="phone_no_hint">Phone No</string>
+    <string name="password_hint">Password</string>
+    <string name="mail_hint">Email id</string>
+    <string name="address_hint">Address</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="guest_button">Guest</string>
+    <string name="guest_searchview_hint">Book name/Author</string>
+    <string name="sign_in">Thank you for signing up. Please sign in to continue...</string>
+    <string name="signIn_button">Sign In</string>
+    <string name="nav_open">Open Navigation Bar</string>
+    <string name="nav_close">Close Navigation Bar</string>
+</resources>
